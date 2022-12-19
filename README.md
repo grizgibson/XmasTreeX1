@@ -1,5 +1,4 @@
 # XmasTreeX1
-Test test test
 
 # 12 SQL: Employee Tracker
 
